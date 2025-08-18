@@ -1,16 +1,26 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">Hi, I'm Anuj 👋</h1>
+<p align="center">Flutter Developer · Firebase · GetX · Clean Architecture</p>
 
-<!--
-**DaMsXerX/DaMsXerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- About -->
+### About me
+- 🧭 I build performant Flutter apps with video caching and Firebase.
+- 🚀 Currently: polishing a TikTok-style reel app with offline playback.
+- 📫 Reach me: your.email@example.com | LinkedIn: /in/your-handle
 
-Here are some ideas to get you started:
+<!-- Skills (badges are optional) -->
+### Tech
+Flutter · Dart · Firebase · GetX · REST · Firestore · Cloud Functions · Laravel · MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Projects -->
+### Featured work
+- **Food Delivery (Flutter + Firebase)** — customer, delivery, and admin panel with Firestore.
+- **Satta Matka (Flutter + GetX)** — real-time wallet, bet/win history.
+- **Racing Game (Flame)** — levels, rewards, physics.
+
+<!-- Stats (optional images) -->
+<!-- Tip: If you add external stat cards later, put them here. -->
+
+<!-- Fun -->
+### Fun fact
+I love optimizing scroll performance and caching to make apps feel instant ⚡
