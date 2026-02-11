@@ -17,7 +17,7 @@
 
 ```dart
 class Developer {
-  final String name = "Anuj";
+  final String name = "Anuj Bhalerao";
   final String location = "Indore, India 🇮🇳";
   final List<String> passions = [
     "Building blazing-fast mobile apps ⚡",
